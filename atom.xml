@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbzmnico.github.io</id>
     <title>某不知名NICO</title>
-    <updated>2020-07-17T17:22:02.603Z</updated>
+    <updated>2020-07-17T17:22:49.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mbzmnico.github.io"/>
     <link rel="self" href="https://mbzmnico.github.io/atom.xml"/>
@@ -65,42 +65,6 @@
 </ol>
 <p>3.本协议版本为1.0，是个人的小小尝试与创新，在制作和规划中可能存在不同程度的问题，希望指正与传播</p>
 <p>——Nico</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NICO FM]]></title>
-        <id>https://mbzmnico.github.io/post/nico-fm/</id>
-        <link href="https://mbzmnico.github.io/post/nico-fm/">
-        </link>
-        <updated>2020-07-04T16:40:47.000Z</updated>
-        <content type="html"><![CDATA[<p>Nico制作的播客节目NICO FM 预计在2021年前会推出第一期</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[要搞 China - 90 pop  ！！！]]></title>
-        <id>https://mbzmnico.github.io/post/yao-gao-china-90-pop/</id>
-        <link href="https://mbzmnico.github.io/post/yao-gao-china-90-pop/">
-        </link>
-        <updated>2020-07-01T12:45:04.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>寡人超喜欢上个世纪的各种事物</strong></p>
-<p>所以朕想创作一些有关中国80年代和90年代的风格，像是音乐🔉，影视🎥之类的，就像当年的city pop一样，亦或者 wapeware，将上世纪元素结合成一种新的复古风格，想想就超有趣啊！！！！所以平时要多收集一些那个时代的信息，（孤喜欢并怀念的是那个时代有趣与美好事物的集合，和极具时代风格的元素）</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>寡人超喜欢上个世纪的各种事物</strong></p>
-<p>所以朕想创作一些有关中国80年代和90年代的风格，像是音乐🔉，影视🎥之类的，就像当年的city pop一样，亦或者 wapeware，将上世纪元素结合成一种新的复古风格，想想就超有趣啊！！！！所以平时要多收集一些那个时代的信息，（孤喜欢并怀念的是那个时代有趣与美好事物的集合，和极具时代风格的元素）</p>
-<!-- more -->
-<figure data-type="image" tabindex="1"><img src="https://mbzmnico.github.io/post-images/1593608321034.jpg" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020年7月1日 NICO建站喽！！]]></title>
-        <id>https://mbzmnico.github.io/post/2020-nian-7-yue-1-ri-nico-jian-zhan-lou/</id>
-        <link href="https://mbzmnico.github.io/post/2020-nian-7-yue-1-ri-nico-jian-zhan-lou/">
-        </link>
-        <updated>2020-07-01T08:18:25.000Z</updated>
-        <content type="html"><![CDATA[<p>TEST TEST<br>
-TEST TEST<br>
-如无特殊声明，所有时间采用北京时间<br>
-<img src="https://mbzmnico.github.io/post-images/1593591623153.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
